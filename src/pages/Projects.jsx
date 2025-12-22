@@ -78,7 +78,7 @@ const projects = [
   {
     title: "SpringHireAI – ATS Tracker & Resume Analysis Platform",
     icon: <Briefcase size={36} />,
-    tech: "Java • Spring Boot • Spring AI • NLP • REST APIs • MySQL",
+    tech: "Java • Spring Boot • Spring AI • NLP • REST APIs",
     description:
       "An AI-powered Applicant Tracking System that analyzes resumes against job descriptions to improve ATS scores.",
     features: [
@@ -238,3 +238,12 @@ const Projects = () => {
 };
 
 export default Projects;
+
+
+
+
+
+
+
+
+

@@ -506,8 +506,8 @@ const stats = [
 const profiles = [
   { name: "LeetCode", link: "https://leetcode.com/u/divanshu___tiwari/" },
   { name: "Codeforces", link: "https://codeforces.com/profile/tiwari__ji" },
-  { name: "GeeksforGeeks", link: "https://www.geeksforgeeks.org/profile/divanshuti0kpu" },
-  { name: "GitHub", link: "https://github.com/tiwari-ji-27" },
+  { name: "Codolio", link: "https://codolio.com/profile/tiwari___ji" },
+  // { name: "GitHub", link: "https://github.com/tiwari-ji-27" },
 ];
 
 /* ================= COMPONENT ================= */
